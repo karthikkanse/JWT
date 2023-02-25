@@ -1,0 +1,23 @@
+[2022-12-27 14:07:19,837] http-nio-8080-exec-3 com.ty.fabrico.fabrico_springboot.service.WeaverService 34 DEBUG  - Weaver saved
+[2022-12-27 14:09:24,408] http-nio-8080-exec-6 com.ty.fabrico.fabrico_springboot.service.ProductService 71 DEBUG  - Customer found
+[2022-12-27 14:09:24,409] http-nio-8080-exec-6 com.ty.fabrico.fabrico_springboot.service.ProductService 78 DEBUG  - Product found
+[2022-12-27 14:13:49,713] http-nio-8080-exec-2 com.ty.fabrico.fabrico_springboot.service.ProductService 71 DEBUG  - Customer found
+[2022-12-27 14:13:49,715] http-nio-8080-exec-2 com.ty.fabrico.fabrico_springboot.service.ProductService 78 DEBUG  - Product found
+[2022-12-27 14:18:43,063] http-nio-8080-exec-2 com.ty.fabrico.fabrico_springboot.service.ProductService 71 DEBUG  - Customer found
+[2022-12-27 14:18:43,065] http-nio-8080-exec-2 com.ty.fabrico.fabrico_springboot.service.ProductService 78 DEBUG  - Product found
+[2022-12-27 14:39:29,513] http-nio-8080-exec-2 com.ty.fabrico.fabrico_springboot.service.ProductService 72 DEBUG  - Customer found
+[2022-12-27 14:39:29,527] http-nio-8080-exec-2 com.ty.fabrico.fabrico_springboot.service.ProductService 79 DEBUG  - Product found
+[2022-12-27 14:39:29,528] http-nio-8080-exec-2 com.ty.fabrico.fabrico_springboot.service.ProductService 108 ERROR  - Trying to insert products to null cart
+[2022-12-27 14:44:29,785] http-nio-8080-exec-1 com.ty.fabrico.fabrico_springboot.service.ProductService 72 DEBUG  - Customer found
+[2022-12-27 14:44:29,793] http-nio-8080-exec-1 com.ty.fabrico.fabrico_springboot.service.ProductService 79 DEBUG  - Product found
+[2022-12-27 14:44:29,796] http-nio-8080-exec-1 com.ty.fabrico.fabrico_springboot.service.ProductService 108 ERROR  - Trying to insert products to null cart
+[2022-12-27 14:44:43,386] http-nio-8080-exec-3 com.ty.fabrico.fabrico_springboot.service.CartService 72 ERROR  - customer not found
+[2022-12-27 14:44:55,833] http-nio-8080-exec-4 com.ty.fabrico.fabrico_springboot.service.CartService 69 DEBUG  - cart saved
+[2022-12-27 14:46:16,086] http-nio-8080-exec-7 com.ty.fabrico.fabrico_springboot.service.ProductService 72 DEBUG  - Customer found
+[2022-12-27 14:46:16,087] http-nio-8080-exec-7 com.ty.fabrico.fabrico_springboot.service.ProductService 79 DEBUG  - Product found
+[2022-12-27 14:46:18,895] http-nio-8080-exec-7 com.ty.fabrico.fabrico_springboot.service.CartService 103 DEBUG  - Cart Updated
+[2022-12-27 14:46:18,914] http-nio-8080-exec-7 com.ty.fabrico.fabrico_springboot.service.ProductService 96 DEBUG  - Products add to customer
+[2022-12-27 14:49:33,298] http-nio-8080-exec-1 com.ty.fabrico.fabrico_springboot.service.ProductService 143 ERROR  - Product not found to delete
+[2022-12-27 16:48:29,948] http-nio-8080-exec-1 com.ty.fabrico.fabrico_springboot.service.CustomerService 108 DEBUG  - Customer Deleted
+[2022-12-27 16:48:38,718] http-nio-8080-exec-3 com.ty.fabrico.fabrico_springboot.service.CustomerService 111 ERROR  - Customer Not Found to Delete
+[2022-12-27 16:51:54,531] http-nio-8080-exec-8 com.ty.fabrico.fabrico_springboot.service.WeaverService 89 WARN   - Weaver deleted
